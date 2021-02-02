@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{439:function(e,n,t){"use strict";t.r(n);var l={layout:"admin",middleware:["admin-auth"]},o=t(12),component=Object(o.a)(l,(function(){var e=this.$createElement;return(this._self._c||e)("h1",[this._v("Welcome to admin page")])}),[],!1,null,null,null);n.default=component.exports}}]);
